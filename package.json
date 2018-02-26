@@ -6,7 +6,7 @@
     "type": "",
     "url": ""
   },
-  "author": "Ray Villalobos",
+  "author": "",
   "devDependencies": {
     "gulp": "^3.9.1",
     "gulp-browserify": "^0.5.1",
